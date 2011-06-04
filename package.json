@@ -1,0 +1,14 @@
+{
+    "name"         : "yokel",
+    "description"  : "JavaScript to PHP converter/compiler",
+    "version"      : "0.1.0",
+    "author"       : "Thomas Yandell <tom.deletethis@yandell.me.uk> (http://tomyandell.wordpress.com/)",
+    "main"         : "./lib/yokel",
+    "engines"      : { "node": ">= 0.4.7" },
+    "depends"      : { "promised-io" : ">= 0.0.1" },
+    "repository" : {
+        "type" : "git",
+        "url"  : "http://github.com/tomyan/yokel.git"
+    },
+    "homepage" : "http://github.com/tomyan/yokel"
+}
